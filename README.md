@@ -1,6 +1,7 @@
 # VirusTester
-I created virus console application with C#, for Network security lesson in university
+I created virus console application with C#, for Network security lesson in university, ONLY FOR EDUCATION
 
+Antivirus will detect this as virus
 
 This application will listening for your input
 
@@ -15,4 +16,4 @@ and your files will be corrupted
 input "d" will delete some of your files in this folders
 
 I will not post my code because just changing path can change or delete all of your files even windows (may be).
-It's very dangerous app
+It's a dangerous app
